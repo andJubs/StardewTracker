@@ -1,0 +1,82 @@
+[
+    {
+      "id": "1",
+      "name": "teste 1",
+      "category": "categoria teste 1",
+      "description": "teste 1 teste 1 teste 1",
+      "completed": false,
+      "imageUri": "images/starfruit.png"
+    },
+    {
+      "id": "2",
+      "name": "teste 2",
+      "category": "categoria teste 2",
+      "description": "teste 2 teste 2 teste 3",
+      "completed": false,
+      "imageUri": "images/starfruit.png"
+    },
+    {
+      "id": "3",
+      "name": "teste 3",
+      "category": "categoria teste 3",
+      "description": "teste 3 teste 3 teste 3",
+      "completed": false,
+      "imageUri": "images/starfruit.png"
+    },
+    {
+      "id": "4",
+      "name": "teste 4",
+      "category": "categoria teste 4",
+      "description": "teste 4 teste 4 teste 4",
+      "completed": false,
+      "imageUri": "images/starfruit.png"
+    },
+    {
+      "id": "5",
+      "name": "teste 5",
+      "category": "categoria teste 5",
+      "description": "teste 5 teste 5 teste 5",
+      "completed": false,
+      "imageUri": "images/starfruit.png"
+    },
+    {
+      "id": "6",
+      "name": "teste 6",
+      "category": "categoria teste 6",
+      "description": "teste 6 teste 6 teste 6",
+      "completed": false,
+      "imageUri": "images/starfruit.png"
+    },
+    {
+      "id": "7",
+      "name": "teste 7",
+      "category": "categoria teste 7",
+      "description": "teste 7 teste 7 teste 7",
+      "completed": false,
+      "imageUri": "images/starfruit.png"
+    },
+    {
+      "id": "8",
+      "name": "teste 8",
+      "category": "categoria teste 8",
+      "description": "teste 8 teste 8 teste 8",
+      "completed": false,
+      "imageUri": "images/starfruit.png"
+    },
+    {
+      "id": "9",
+      "name": "teste 9",
+      "category": "categoria teste 9",
+      "description": "teste 9 teste 9 teste 9",
+      "completed": false,
+      "imageUri": "images/starfruit.png"
+    },
+    {
+      "id": "10",
+      "name": "teste 10",
+      "category": "categoria teste 10",
+      "description": "teste 10 teste 10 teste 10",
+      "completed": false,
+      "imageUri": "images/starfruit.png"
+    }
+  ]  
